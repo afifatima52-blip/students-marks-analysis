@@ -50,5 +50,5 @@ The dataset contains sample data created for practice. It does not represent rea
 
 Aspiring Data Scientist | Beginner Python Project
 ## 📊 Project Visualization
-[📊 View Students Marks Analysis Chart](./students_marks_analysis.png)
+[📊 View Students Marks Analysis Chart](./students_marks_Analysis.png)
 
