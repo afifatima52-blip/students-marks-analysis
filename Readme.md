@@ -1,3 +1,4 @@
+![Students Marks Analysis](Students%E2%80%99%20Marks%20Analysis%20Infographic.png)
 # 🎓 Students Marks Analysis
 
 ### A Python Data Science Project | Data Analysis | Data Visualization
